@@ -1,0 +1,7 @@
+
+.scaled-item {
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    transition: all 0.5 ease-in-out;
+}
